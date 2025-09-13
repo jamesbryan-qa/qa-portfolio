@@ -2,7 +2,7 @@
 
 **Role:** Manual QA Tester  
 **Project Version:** September 2025, v1.0  
-**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking)
+**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking), Google Sheets / Docs  
 
 ---
 
@@ -10,7 +10,8 @@
 The **SauceDemo QA Project** focuses on testing the functionality, usability, and reliability of the SauceDemo web application.  
 The goal was to validate core features including **user authentication, product catalog, shopping cart, and checkout workflows**.  
 
-Testing was conducted manually, following planned test cases, with additional exploratory testing to identify further defects. This project demonstrates **manual QA testing skills**, including test case creation, execution, bug tracking, and reporting.
+Testing was conducted manually, following planned test cases, with additional exploratory testing to identify further defects.  
+This project demonstrates **manual QA testing skills**, including test case creation, execution, bug tracking, and reporting.
 
 ---
 
@@ -23,6 +24,7 @@ Testing was conducted manually, following planned test cases, with additional ex
 ---
 
 ## 📂 Project Structure
+```plaintext
 saucedemo-qa-project/
 ├── bug-reports/
 ├── epics-stories/ 
@@ -46,7 +48,7 @@ saucedemo-qa-project/
 - **Failed:** 2  
 - **Execution Rate:** 100%  
 
-Full details of executed test cases, results, and linked evidence are available in the [Test Execution Summary](./test-execution/Test_Execution.md).
+Full details of executed test cases, results, and linked evidence are available in the [Test Execution Summary](./test-execution/README.md).
 
 ---
 
