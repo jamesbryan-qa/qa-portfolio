@@ -56,7 +56,7 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 | TC-CT-002    | Validate user cannot add more than one of the same product | ✅ Passed | - |
 | TC-CT-003    | Validate cart badge count updates correctly | ✅ Passed | - |
 | TC-CT-004    | Validate removing product from cart       | ✅ Passed | - |
-| TC-CT-006    | Validate cart persistence after logout and login | ✅ Passed | Linked Bug: SDP-37 |
+| TC-CT-006    | Validate cart persistence after logout and login | ✅ Passed | - |
 | TC-CT-005    | Validate behavior when cart is empty      | ❌ Failed | Checkout button active, allows proceeding with empty cart. [PDF](../bug-reports/SDP-35%20Checkout%20is%20allowed%20when%20the%20cart%20is%20empty.pdf) / [Screenshot/Video](../bug-reports/attachments/Checkout_bug.mp4) |
 
 ---
@@ -92,7 +92,7 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 
 2. **SDP-38 – No Back Button Available After Completing Checkout Order** → Linked to TC-CHECKOUT-007  
    → [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf)  
-   → [Screenshot](../bug-reports/attachments/Confirmation_BackButton.png)  
+   → [Screenshot/Video](../bug-reports/attachments/Confirmation_BackButton.png)  
 
 ---
 
