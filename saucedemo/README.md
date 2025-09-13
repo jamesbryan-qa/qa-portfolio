@@ -25,10 +25,10 @@ This project demonstrates **manual QA testing skills**, including test case crea
 ## 📂 Project Structure
 saucedemo-qa-project/
 ├── bug-reports/
-├── epics-stories/ 
-├── test-cases/ 
-├── test-execution/ 
-└── README.md 
+├── epics-stories/
+├── test-cases/
+├── test-execution/
+└── README.md
 
 ---
 
