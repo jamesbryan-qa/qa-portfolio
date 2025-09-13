@@ -88,8 +88,8 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 
 1. **SDP-35 – Checkout is allowed when the cart is empty** → Linked to TC-CT-005  
    → [PDF](../bug-reports/SDP-35%20Checkout%20is%20allowed%20when%20the%20cart%20is%20empty.pdf)  
-   → [Screenshot/Video](../bug-reports/attachments/Checkout_bug.mp4)  
+   → [Video](../bug-reports/attachments/Checkout_bug.mp4)  
 
 2. **SDP-38 – No Back Button Available After Completing Checkout Order** → Linked to TC-CHECKOUT-007  
    → [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf)  
-   → [Screenshot/Video](../bug-reports/attachments/Confirmation_BackButton.png)  
+   → [Screenshot](../bug-reports/attachments/Confirmation_BackButton.png)  
