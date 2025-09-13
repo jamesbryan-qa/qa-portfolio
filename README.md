@@ -1,26 +1,34 @@
 # QA Portfolio - James Bryan F. Dela Cruz
 
-Welcome to my QA portfolio! Here, you can explore the projects I’ve worked on as a QA tester, including manual testing and API testing.
+Welcome to my QA portfolio! Here you can explore the projects I’ve worked on as a QA tester, demonstrating my skills in manual testing, API testing, and test documentation.
 
 ---
 
-## Projects
+## 🔹 Projects
 
-### 1. Trello API Postman
-- **Role:** QA Tester  
-- **Tools:** Postman  
-- **Description:** Practical project using Trello API to test CRUD operations. Includes creating boards, lists, cards, updating them, and validating API responses.
-- **Project Folder:** [trello-api-postman](./trello-api-postman)
-
-### 2. SauceDemo QA Project
+### 1. SauceDemo QA Project
 - **Role:** Manual QA Tester  
 - **Tools:** Zephyr, Jira, Google Sheets, Google Docs  
-- **Description:** Manual testing project for the SauceDemo website. Includes test cases, test execution, bug reports, screenshots, and video evidence.
+- **Description:** A manual testing project for the SauceDemo e-commerce website. Includes:
+  - Test cases
+  - Test execution evidence
+  - Bug reports with screenshots and videos
 - **Project Folder:** [saucedemo](./saucedemo)
 
 ---
 
-## How to Use This Repository
+### 2. Trello API Postman Project
+- **Role:** QA Tester  
+- **Tools:** Postman, Trello API  
+- **Description:** A practical API testing project using Trello API. Demonstrates:
+  - CRUD operations testing
+  - Test scripts in Postman
+  - Test environment setup
+- **Project Folder:** [trello-api-postman](./trello-api-postman)
+
+---
+
+## 📌 How to Use This Repository
 1. Clone the repository:  
-```bash
-git clone https://github.com/jamesbryan-qa/qa-portfolio.git
+   ```bash
+   git clone https://github.com/jamesbryan-qa/qa-portfolio.git
