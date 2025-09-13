@@ -71,4 +71,4 @@ All bug reports and attachments are stored in the [Bug Reports Folder](./bug-rep
 ## 📌 How to Use This Repository
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jamesbryan-qa/qa-portfolio.git
