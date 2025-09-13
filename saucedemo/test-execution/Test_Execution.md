@@ -70,7 +70,7 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 | TC-CHECKOUT-004 | Checkout with Missing Postal Code       | ✅ Passed | - |
 | TC-CHECKOUT-005 | View Checkout Overview and Complete Order | ✅ Passed | - |
 | TC-CHECKOUT-006 | Cancel Checkout Before Completion       | ✅ Passed | - |
-| TC-CHECKOUT-007 | Validate Order Confirmation Page UI     | ❌ Failed | Back Home button missing. [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf) / [Screenshot](../bug-reports/attachments/Confirmation_BackButton.png) |
+| TC-CHECKOUT-007 | Validate Order Confirmation Page UI     | ❌ Failed | Back Home button missing. [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf) / [Screenshot/Video](../bug-reports/attachments/Confirmation_BackButton.png) |
 
 ---
 
