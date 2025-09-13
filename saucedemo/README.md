@@ -1,4 +1,4 @@
-# SauceDemo QA Project
+# SauceDemo Project
 
 **Role:** Manual QA Tester  
 **Project Version:** September 2025, v1.0  
