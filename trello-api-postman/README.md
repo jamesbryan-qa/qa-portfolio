@@ -6,14 +6,6 @@
 
 ---
 
-## 📌 Project Overview
-This project demonstrates **API testing using Postman** on Trello’s REST API.  
-It validates the full **CRUD workflow (Board → List → Card)** with **assertions, environment variables, and automated runs** using Postman’s Collection Runner.  
-
-The goal is to showcase **API testing skills** employers expect, including request chaining, dynamic data handling, and result verification.
-
----
-
 ## 🛠️ Features
 - ✅ End-to-end **CRUD API testing** (Board → List → Card)  
 - ✅ Postman Collection with environment variables  
@@ -85,11 +77,5 @@ The goal is to showcase **API testing skills** employers expect, including reque
 ---
 
 ## 🎯 Project Value
-This project demonstrates **hands-on API testing skills** using Postman and the Trello REST API.  
-Key highlights:  
-- CRUD workflow validation  
-- Assertions for API behavior  
-- Environment management for secure credentials  
-- Test automation via Collection Runner  
-
-📌 This project adds strong value to a **QA portfolio**, proving real-world API testing experience.  
+This project demonstrates API testing skills using Postman and Trello REST APIs.  
+It highlights CRUD testing, assertions, environment management, and reporting.
