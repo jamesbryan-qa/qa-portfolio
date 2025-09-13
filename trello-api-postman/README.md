@@ -1,24 +1,32 @@
 # Trello API Testing with Postman
 
-This project demonstrates API testing using Postman on Trello’s REST API.  
-It covers the full CRUD workflow (Board → List → Card) with assertions and environment variables.  
-The project is designed to show practical API testing skills that employers look for.  
+**Role:** Manual QA Tester  
+**Project Version:** September 2025, v1.0  
+**Tools Used:** Postman (API Testing), Trello REST API  
 
 ---
 
-## 🔹 Features
-- ✅ End-to-end CRUD testing  
+## 📌 Project Overview
+This project demonstrates **API testing using Postman** on Trello’s REST API.  
+It validates the full **CRUD workflow (Board → List → Card)** with **assertions, environment variables, and automated runs** using Postman’s Collection Runner.  
+
+The goal is to showcase **API testing skills** employers expect, including request chaining, dynamic data handling, and result verification.
+
+---
+
+## 🛠️ Features
+- ✅ End-to-end **CRUD API testing** (Board → List → Card)  
 - ✅ Postman Collection with environment variables  
 - ✅ Assertions for:
   - Status codes  
   - Data validation (name & description updates)  
-  - Archive checks for lists  
-- ✅ Ready-to-run Collection Runner tests  
-- ✅ Screenshots and results included  
+  - Archive validation for lists  
+- ✅ Ready-to-run **Collection Runner** tests  
+- ✅ **Screenshots & results** included  
 
 ---
 
-## 🔹 API Workflow
+## 🔄 API Workflow Tested
 1. Create Board  
 2. Create List  
 3. Create Card  
@@ -34,44 +42,54 @@ The project is designed to show practical API testing skills that employers look
 
 ---
 
-## 🔹 Setup Instructions
-1. Clone or download this repo  
+## ⚙️ Setup Instructions
+1. Clone or download this repository  
 2. Import `Trello.postman_collection.json` into Postman  
 3. Import `Trello.postman_environment.json` into Postman  
-4. Open the environment and replace `YOUR_API_KEY_HERE` and `YOUR_TOKEN_HERE` with your Trello credentials  
-5. Run the collection using Postman’s **Collection Runner**  
+4. Open the environment and replace:
+   - `YOUR_API_KEY_HERE`  
+   - `YOUR_TOKEN_HERE`  
+   with your **Trello credentials**  
+5. Run the collection using **Postman’s Collection Runner**  
 
 ---
 
-## 🔹 Example Tests
-- Response status code is `200`  
-- Data is updated correctly (board/list/card names)  
-- List is archived successfully  
+## 🧪 Example Test Assertions
+- Response status code is **200 OK**  
+- API successfully updates resource **(board, list, card)**  
+- Archived lists return the correct status  
+- Deleted entities return proper cleanup response  
 
 ---
 
-## 🔹 Screenshots
+## 📸 Screenshots
 
-### Create Board
+### 🔹 Create Board
 ![Create Board](screenshots/create-board.png)
 
-### Update Board
+### 🔹 Update Board
 ![Update Board](screenshots/update-board.png)
 
-### Archive List
+### 🔹 Archive List
 ![Archive List](screenshots/archive-list.png)
 
-### Environment Variables
+### 🔹 Environment Variables
 ![Environment](screenshots/environment.png)
 
-### Collection Runner Result 1
+### 🔹 Collection Runner Result (1)
 ![Runner Result 1](screenshots/runner-result-1.png)
 
-### Collection Runner Result 2
+### 🔹 Collection Runner Result (2)
 ![Runner Result 2](screenshots/runner-result-2.png)
 
 ---
 
-## 🔹 Project Value
-This project demonstrates API testing skills using Postman and Trello REST APIs.  
-It highlights CRUD testing, assertions, environment management, and reporting — all of which are core skills for QA and API testers.  
+## 🎯 Project Value
+This project demonstrates **hands-on API testing skills** using Postman and the Trello REST API.  
+Key highlights:  
+- CRUD workflow validation  
+- Assertions for API behavior  
+- Environment management for secure credentials  
+- Test automation via Collection Runner  
+
+📌 This project adds strong value to a **QA portfolio**, proving real-world API testing experience.  
