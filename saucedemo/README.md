@@ -21,8 +21,9 @@ This project demonstrates **manual QA testing skills**, including test case crea
 - **Microsoft Excel** – Supporting Documentation  
 
 ---
-```
+
 ## 📂 Project Structure
+```
 saucedemo-qa-project/
 ├── bug-reports/
 ├── epics-stories/
