@@ -50,27 +50,27 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 ---
 
 ## 🛒 Shopping Cart
-| Test Case ID | Description                               | Status | Notes |
-|--------------|-------------------------------------------|--------|-------|
-| TC-CT-001    | Validate Add to Cart is working           | ✅ Passed | - |
-| TC-CT-002    | Validate user cannot add more than one of the same product | ✅ Passed | - |
-| TC-CT-003    | Validate cart badge count updates correctly | ✅ Passed | - |
-| TC-CT-004    | Validate removing product from cart       | ✅ Passed | - |
-| TC-CT-006    | Validate cart persistence after logout and login | ✅ Passed | - |
-| TC-CT-005    | Validate behavior when cart is empty      | ❌ Failed | Checkout button active, allows proceeding with empty cart. [PDF](../bug-reports/SDP-35%20Checkout%20is%20allowed%20when%20the%20cart%20is%20empty.pdf) / [Screenshot/Video](../bug-reports/attachments/Checkout_bug.mp4) |
+| Test Case ID | Description                               | Status |
+|--------------|-------------------------------------------|--------|
+| TC-CT-001    | Validate Add to Cart is working           | ✅ Passed |
+| TC-CT-002    | Validate user cannot add more than one of the same product | ✅ Passed |
+| TC-CT-003    | Validate cart badge count updates correctly | ✅ Passed |
+| TC-CT-004    | Validate removing product from cart       | ✅ Passed |
+| TC-CT-006    | Validate cart persistence after logout and login | ✅ Passed |
+| TC-CT-005    | Validate behavior when cart is empty      | ❌ Failed |
 
 ---
 
 ## 🛒 Checkout
-| Test Case ID | Description                               | Status | Notes |
-|--------------|-------------------------------------------|--------|-------|
-| TC-CHECKOUT-001 | Checkout with Valid Information          | ✅ Passed | - |
-| TC-CHECKOUT-002 | Checkout with Missing First Name        | ✅ Passed | - |
-| TC-CHECKOUT-003 | Checkout with Missing Last Name         | ✅ Passed | - |
-| TC-CHECKOUT-004 | Checkout with Missing Postal Code       | ✅ Passed | - |
-| TC-CHECKOUT-005 | View Checkout Overview and Complete Order | ✅ Passed | - |
-| TC-CHECKOUT-006 | Cancel Checkout Before Completion       | ✅ Passed | - |
-| TC-CHECKOUT-007 | Validate Order Confirmation Page UI     | ❌ Failed | Back Home button missing. [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf) / [Screenshot/Video](../bug-reports/attachments/Confirmation_BackButton.png) |
+| Test Case ID | Description                               | Status |
+|--------------|-------------------------------------------|--------|
+| TC-CHECKOUT-001 | Checkout with Valid Information          | ✅ Passed |
+| TC-CHECKOUT-002 | Checkout with Missing First Name        | ✅ Passed |
+| TC-CHECKOUT-003 | Checkout with Missing Last Name         | ✅ Passed |
+| TC-CHECKOUT-004 | Checkout with Missing Postal Code       | ✅ Passed |
+| TC-CHECKOUT-005 | View Checkout Overview and Complete Order | ✅ Passed |
+| TC-CHECKOUT-006 | Cancel Checkout Before Completion       | ✅ Passed |
+| TC-CHECKOUT-007 | Validate Order Confirmation Page UI     | ❌ Failed |
 
 ---
 
