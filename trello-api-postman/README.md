@@ -78,4 +78,4 @@
 
 ## 🎯 Project Value
 This project demonstrates API testing skills using Postman and Trello REST APIs.  
-It highlights CRUD testing, assertions, environment management, and reporting.
+It highlights CRUD testing, assertions, environment management, and reporting.  
