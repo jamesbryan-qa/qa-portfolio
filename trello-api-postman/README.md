@@ -72,6 +72,6 @@ The project is designed to show practical API testing skills that employers look
 
 ---
 
-## 🔹 Portfolio Value
+## 🔹 Priject Value
 This project demonstrates API testing skills using Postman and Trello REST APIs.  
 It highlights CRUD testing, assertions, environment management, and reporting — all of which are core skills for QA and API testers.  
