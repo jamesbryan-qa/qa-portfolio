@@ -2,7 +2,7 @@
 
 **Role:** Manual QA Tester  
 **Project Version:** September 2025, v1.0  
-**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking), Google Sheets / Docs  
+**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking)
 
 ---
 
@@ -18,8 +18,7 @@ This project demonstrates **manual QA testing skills**, including test case crea
 ## 🛠️ Tools & Technologies
 - **Zephyr** – Test Case Management  
 - **Jira** – Bug Tracking  
-- **Google Sheets** – Test Case Documentation  
-- **Google Docs** – Supporting Documentation  
+- **Microsoft Excel** – Supporting Documentation  
 
 ---
 
