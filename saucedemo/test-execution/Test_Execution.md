@@ -1,7 +1,5 @@
-# SauceDemo QA Project – Test Execution Summary
+# Test Execution Summary
 
-**Project Version:** September 2025, v1.0  
-**Role:** Manual QA Tester  
 **Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking), Google Sheets/Docs
 
 ---
