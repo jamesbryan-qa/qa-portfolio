@@ -23,7 +23,6 @@ This project demonstrates **manual QA testing skills**, including test case crea
 ---
 
 ## 📂 Project Structure
-```plaintext
 saucedemo-qa-project/
 ├── bug-reports/
 ├── epics-stories/ 
