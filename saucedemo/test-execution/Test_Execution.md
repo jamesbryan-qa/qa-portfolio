@@ -1,6 +1,6 @@
 # Test Execution Summary
 
-**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking), Google Sheets/Docs
+**Tools Used:** Zephyr (Test Case Management), Jira (Bug Tracking)
 
 ---
 
