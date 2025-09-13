@@ -93,19 +93,3 @@ Test execution was done in **Zephyr**, and related defects were tracked in **Jir
 2. **SDP-38 – No Back Button Available After Completing Checkout Order** → Linked to TC-CHECKOUT-007  
    → [PDF](../bug-reports/SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf)  
    → [Screenshot/Video](../bug-reports/attachments/Confirmation_BackButton.png)  
-
----
-
-## 🐞 Additional Defects Observed During Passed Test Cases
-These defects were identified while executing passing test cases. Test steps executed as expected, but issues were noted and logged in Jira.
-
-| Bug ID | Description | Observed During | Evidence |
-|--------|------------|----------------|----------|
-| SDP-37 | Cart items persist across different user accounts | TC-CT-006 – Validate cart persistence after logout and login | [PDF](../bug-reports/SDP-37%20Cart%20items%20persist%20across%20different%20user%20accounts.pdf) / [Screenshot/Video](../bug-reports/attachments/Cross_acc_bug.mp4) |
-| SDP-34 | Social media links in the footer are not working | TC-PC-001 – Validate product list is displayed correctly | [PDF](../bug-reports/SDP-34%20Social%20media%20links%20in%20the%20footer%20are%20not%20working.pdf) / [Screenshot/Video](../bug-reports/attachments/UI_SOCIALS.png) |
-| SDP-32 | Back button text formatting inconsistent | TC-PC-007 – Validate product details page navigation | [PDF](../bug-reports/SDP-32%20Back%20button%20text%20formatting%20inconsistent.pdf) / [Screenshot/Video](../bug-reports/attachments/UI_BACK.png) |
-| SDP-31 | Footer section is too large | TC-PC-001 – Validate product list is displayed correctly | [PDF](../bug-reports/SDP-31%20Footer%20section%20is%20too%20large.pdf) / [Screenshot/Video](../bug-reports/attachments/UI_FOOTER.png) |
-| SDP-30 | Product description contains placeholder text | TC-PC-007 – Validate product details page navigation | [PDF](../bug-reports/SDP-30%20Product%20description%20contains%20placeholder%20text.pdf) / [Screenshot/Video](../bug-reports/attachments/UI_TXT.png) |
-
-
----
