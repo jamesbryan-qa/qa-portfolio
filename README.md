@@ -36,12 +36,12 @@
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="60" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/jira.png" width="60" title="Jira"/>
+  <img src="https://img.icons8.com/color/48/trello.png" width="60" title="Trello"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="60" title="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png" width="60" title="Google Sheets"/>
+  <img src="https://img.icons8.com/color/48/google-docs.png" width="60" title="Google Docs"/>
 </p>
 
 ---
