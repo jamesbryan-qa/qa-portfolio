@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm James Bryan Dela Cruz</h1>
-
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">
-</p>
-
+<h1 align="center">Hi , I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
 <h3 align="center">📌 Manual QA Tester | API & Mobile Testing Enthusiast | Building My QA Portfolio</h3>
 
 ---
