@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
+<h1 align="center">Hi, I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
 <h3 align="center">📌 Manual QA Tester | API & Mobile Testing Enthusiast | Building My QA Portfolio</h3>
 
 ---
@@ -18,28 +18,29 @@
 
 <p align="center">
 ✨ Manual QA Tester with hands-on experience in <b>web, API, and mobile testing</b> <br>
-✨ Skilled in creating and executing <b>test cases, bug reporting, and QA documentation</b> <br>
-✨ Experience with <b>crowdtesting</b> projects (Mobile Testing) <br>
-✨ Passionate about quality, detail-oriented, and always eager to learn  
+✨ Skilled in writing and executing <b>test cases, bug reporting, and QA documentation</b> <br>
+✨ Practical experience in <b>crowdtesting</b> (uTest – Mobile Testing) <br>
+✨ Passionate about delivering high-quality software and always eager to learn  
 </p>
 
 ---
 
 <h2 align="center">📂 Featured Projects</h2>
 
-- 🔹 <a href="https://github.com/jamesbryan-qa/qa-portfolio/tree/main/saucedemo-qa-project">SauceDemo QA Project</a> – Manual testing project with test cases, bug reports, and execution results.  
-- 🔹 <a href="https://github.com/jamesbryan-qa/qa-portfolio/tree/main/trello-api-testing">Trello API Testing with Postman</a> – API testing project covering CRUD operations, assertions, and reporting.  
+- <img src="https://img.icons8.com/fluency/48/domain.png" width="22"/> [SauceDemo QA Project](./saucedemo) – Manual testing project including test cases, bug reports, and execution results.  
+
+- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22"/> [Trello API Testing with Postman](./trello-api-postman) – API testing project covering CRUD operations, assertions, and reporting with Postman.  
 
 ---
 
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
-  <img alt="manualtesting" src="https://skillicons.dev/icons?i=github" width="60"/>
-  <img alt="jira" src="https://skillicons.dev/icons?i=git" width="60"/>
+  <img alt="github" src="https://skillicons.dev/icons?i=github" width="60"/>
+  <img alt="git" src="https://skillicons.dev/icons?i=git" width="60"/>
   <img alt="postman" src="https://skillicons.dev/icons?i=postman" width="60"/>
-  <img alt="api" src="https://skillicons.dev/icons?i=python" width="60"/>
-  <img alt="mobile" src="https://skillicons.dev/icons?i=androidstudio" width="60"/>
+  <img alt="python" src="https://skillicons.dev/icons?i=python" width="60"/>
+  <img alt="androidstudio" src="https://skillicons.dev/icons?i=androidstudio" width="60"/>
   <img alt="html" src="https://skillicons.dev/icons?i=html" width="60"/>
   <img alt="css" src="https://skillicons.dev/icons?i=css" width="60"/>
   <img alt="javascript" src="https://skillicons.dev/icons?i=javascript" width="60"/>
@@ -52,7 +53,7 @@
 <p align="center">
 🚀 Build a professional QA portfolio showcasing real-world projects <br>
 📱 Expand expertise in <b>mobile testing & crowdtesting</b> <br>
-💡 Grow into an <b>Automation QA Engineer</b> in the future  
+💡 Transition into an <b>Automation QA Engineer</b> in the future  
 </p>
 
 ---
