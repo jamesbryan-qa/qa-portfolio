@@ -47,7 +47,8 @@ saucedemo-qa-project/
 - **Failed:** 2  
 - **Execution Rate:** 100%  
 
-Full details of executed test cases, results, and linked evidence are available in the [Test Execution Summary](./saucedemo/test-execution/Test_Execution.md)
+Full details of executed test cases, results, and linked evidence are available in theFull details of executed test cases, results, and linked evidence are available in the [Test Execution Summary](https://github.com/jamesbryan-qa/qa-portfolio/blob/main/saucedemo/test-execution/Test_Execution.md).
+
 
 ---
 
