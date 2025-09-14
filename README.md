@@ -19,7 +19,7 @@
 <p align="center">
 ✨ Manual QA Tester with hands-on experience in <b>web, API, and mobile testing</b> <br>
 ✨ Skilled in creating and executing <b>test cases, bug reporting, and QA documentation</b> <br>
-✨ Experience with <b>crowdtesting</b> projects on uTest (Mobile Testing) <br>
+✨ Experience with <b>crowdtesting</b> projects (Mobile Testing) <br>
 ✨ Passionate about quality, detail-oriented, and always eager to learn  
 </p>
 
