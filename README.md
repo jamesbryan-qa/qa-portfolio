@@ -1,61 +1,46 @@
-<h1 align="center">Hi, I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
-<h3 align="center">📌 Manual QA Tester | API & Mobile Testing Enthusiast | Building My QA Portfolio</h3>
+# QA Portfolio - James Bryan F. Dela Cruz
+
+Welcome to my QA portfolio! Here you can explore the projects I’ve worked on as a QA tester, demonstrating my skills in **manual testing, API testing, mobile testing, and QA documentation**.
 
 ---
 
+## 🔹 Skills & Tools
 <p align="center">
-<a href="mailto:delacruzjamesbryan13@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/jamesbryan03" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/jira.png" width="50" title="Jira"/>
+  <img src="https://img.icons8.com/color/48/trello.png" width="50" title="Trello"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png" width="50" title="Google Sheets"/>
+  <img src="https://img.icons8.com/color/48/google-docs.png" width="50" title="Google Docs"/>
 </p>
 
 ---
 
-<h2 align="center">💻 About Me</h2>
+## 🔹 Projects
 
-<p align="center">
-✨ Manual QA Tester with hands-on experience in <b>web, API, and mobile testing</b> <br>
-✨ Skilled in writing and executing <b>test cases, bug reporting, and QA documentation</b> <br>
-✨ Practical experience in <b>crowdtesting</b> (uTest – Mobile Testing) <br>
-✨ Passionate about delivering high-quality software and always eager to learn  
-</p>
-
----
-
-<h2 align="center">📂 Featured Projects</h2>
-
-- <img src="https://img.icons8.com/fluency/48/domain.png" width="22"/> [SauceDemo QA Project](./saucedemo) – Manual testing project including test cases, bug reports, and execution results.  
-
-- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="22"/> [Trello API Testing with Postman](./trello-api-postman) – API testing project covering CRUD operations, assertions, and reporting with Postman.  
+### 1. SauceDemo QA Project
+- **Role:** Manual QA Tester  
+- **Tools:** Zephyr, Jira, Google Sheets, Google Docs  
+- **Description:** A manual testing project for the SauceDemo e-commerce website. Includes:
+  - Test cases
+  - Test execution evidence
+  - Bug reports with screenshots and videos
+- **Project Folder:** [saucedemo](./saucedemo)
 
 ---
 
-<h2 align="center">🛠️ Tech & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" width="60" title="Postman"/>
-  <img src="https://img.icons8.com/color/48/jira.png" width="60" title="Jira"/>
-  <img src="https://img.icons8.com/color/48/trello.png" width="60" title="Trello"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="60" title="Microsoft Excel"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png" width="60" title="Google Sheets"/>
-  <img src="https://img.icons8.com/color/48/google-docs.png" width="60" title="Google Docs"/>
-</p>
+### 2. Trello API Postman Project
+- **Role:** QA Tester  
+- **Tools:** Postman, Trello API  
+- **Description:** A practical API testing project using Trello API. Demonstrates:
+  - CRUD operations testing
+  - Test scripts in Postman
+  - Test environment setup
+- **Project Folder:** [trello-api-postman](./trello-api-postman)
 
 ---
 
-<h2 align="center">🎯 My Goals</h2>
-
-<p align="center">
-🚀 Build a professional QA portfolio showcasing real-world projects <br>
-📱 Expand expertise in <b>mobile testing & crowdtesting</b> <br>
-💡 Transition into an <b>Automation QA Engineer</b> in the future  
-</p>
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZleGxsNHV4bndjcWR2djdscTcydjRrcHkyb201azk4NzVqcGdxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEJ6DQQp68LJSnyaBb/giphy.gif" width="200" />
-</p>
+## 📌 How to Use This Repository
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/jamesbryan-qa/qa-portfolio.git
