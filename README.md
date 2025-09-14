@@ -36,15 +36,6 @@
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
-  <img alt="postman" src="https://skillicons.dev/icons?i=postman" width="60"/>
-  <img alt="jira" src="https://img.icons8.com/color/48/jira.png" width="60"/>
-  <img alt="trello" src="https://img.icons8.com/color/48/trello.png" width="60"/>
-  <img alt="excel" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="60"/>
-  <img alt="sheets" src="https://img.icons8.com/color/48/google-sheets.png" width="60"/>
-  <img alt="docs" src="https://img.icons8.com/color/48/google-docs.png" width="60"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
