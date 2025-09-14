@@ -58,7 +58,7 @@ All defects were logged in **Jira** with detailed PDF reports and supporting scr
 - **Failed Test Case Defects** – 2 critical issues discovered during planned test execution.  
 - **Additional Defects Observed During Passed Test Cases** – 5 minor issues logged for usability and UI inconsistencies.  
 
-All bug reports and attachments are stored in the [Bug Reports Folder](./bug-reports/README.md).
+All bug reports and attachments are stored in the [Bug Reports](./bug-reports/README.md).
 
 ---
 
