@@ -38,7 +38,6 @@
 <p align="center">
   <img alt="postman" src="https://skillicons.dev/icons?i=postman" width="60"/>
   <img alt="jira" src="https://img.icons8.com/color/48/jira.png" width="60"/>
-  <img alt="zephyr" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-zephyr-a-leading-test-management-solution-developed-by-smartbear-logo-shadow-tal-revivo.png" width="60"/>
   <img alt="trello" src="https://img.icons8.com/color/48/trello.png" width="60"/>
   <img alt="excel" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="60"/>
   <img alt="sheets" src="https://img.icons8.com/color/48/google-sheets.png" width="60"/>
@@ -48,7 +47,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zephyr-2C8EBB?style=for-the-badge&logo=smartbear&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
