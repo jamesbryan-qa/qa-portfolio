@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm James Bryan Dela Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h1>
 
-<h3 align="center">📌 Manual QA Tester | API Testing Enthusiast | Building My QA Portfolio</h3>
+<h3 align="center">📌 Manual QA Tester | API & Mobile Testing Enthusiast | Building My QA Portfolio</h3>
 
 ---
 
@@ -25,10 +25,10 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-✨ Aspiring QA Engineer with hands-on projects in <b>manual testing</b> and <b>API testing</b> <br>
-✨ Experienced with tools like <b>Zephyr, Jira, Postman</b>, and <b>GitHub</b> <br>
-✨ Building a professional QA portfolio to showcase real testing workflows <br>
-✨ Always learning to improve my testing skills and processes  
+✨ Aspiring QA Engineer with hands-on projects in <b>manual, API, and mobile testing</b> <br>
+✨ Experienced with tools like <b>Zephyr, Jira, Postman, GitHub</b> and crowdtesting platforms like <b>uTest</b> <br>
+✨ Building a professional QA portfolio to showcase structured testing workflows <br>
+✨ Always learning new techniques to improve test coverage and quality  
 </p>
 
 ---
@@ -48,6 +48,8 @@
   <img alt="postman" src="https://skillicons.dev/icons?i=postman" width="60"/>
   <img alt="jira" src="https://cdn.simpleicons.org/jira/0052CC" width="60"/>
   <img alt="zephyr" src="https://cdn.simpleicons.org/atlassian/0052CC" width="60"/>
+  <img alt="android" src="https://skillicons.dev/icons?i=androidstudio" width="60"/>
+  <img alt="ios" src="https://cdn.simpleicons.org/apple/000000" width="60"/>
   <img alt="git" src="https://skillicons.dev/icons?i=git" width="60"/>
   <img alt="github" src="https://skillicons.dev/icons?i=github" width="60"/>
   <img alt="python" src="https://skillicons.dev/icons?i=python" width="60"/>
@@ -60,9 +62,9 @@
 <h2 align="center">🎯 My Goals</h2>
 
 <p align="center">
-🚀 Gain practical experience by testing different web & API applications <br>
+🚀 Gain practical experience by testing web, API, and mobile applications <br>
 📌 Build a strong QA portfolio to secure my first role in Software Testing <br>
-💡 Continuously learn Agile, automation basics, and new testing tools  
+💡 Grow my expertise in Agile testing, exploratory testing, and crowdtesting via <b>uTest</b>  
 </p>
 
 ---
