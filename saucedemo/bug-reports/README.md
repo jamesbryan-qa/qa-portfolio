@@ -15,7 +15,6 @@ Each bug report includes a **PDF document** detailing the defect, and supporting
 | SDP-34 | Social media links in the footer are not working | TC-PC-001 | [PDF](./SDP-34%20Social%20media%20links%20in%20the%20footer%20are%20not%20working.pdf) / [Screenshot](./attachments/UI_SOCIALS.png) |
 | SDP-35 | Checkout is allowed when cart is empty | TC-CT-005 | [PDF](./SDP-35%20Checkout%20is%20allowed%20when%20the%20cart%20is%20empty.pdf) / [Video](./attachments/Checkout_bug.mp4) |
 | SDP-37 | Cart items persist across different user accounts | TC-CT-006 | [PDF](./SDP-37%20Cart%20items%20persist%20across%20different%20user%20accounts.pdf) / [Video](./attachments/Cross_acc_bug.mp4) |
-| SDP-38 | No Back Button Available After Completing Checkout Order | TC-CHECKOUT-007 | [PDF](./SDP-38%20No%20Back%20Button%20Available%20After%20Completing%20Checkout%20Order.pdf) / [Screenshot](./attachments/Confirmation_BackButton.png) |
 
 ---
 
